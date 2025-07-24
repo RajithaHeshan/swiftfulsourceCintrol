@@ -20,6 +20,7 @@ struct ContentView: View {
                 
                 
             }
+            .background(Color.red)
         }
         .padding()
         

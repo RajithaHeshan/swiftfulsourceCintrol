@@ -8,6 +8,8 @@ struct HomeView: View {
                 Text ("Screen 2!")
                 Text ("Hi")
                 Text("Hi ALL Blacks")
+                Text("Hi sri-lanka")
+                
             }
             
         }

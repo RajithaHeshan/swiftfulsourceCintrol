@@ -14,7 +14,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinker")
+            Text("Swiftful Thinking!")
             Text("Swiftful!")
             
             Button("Clicked Me Now") {

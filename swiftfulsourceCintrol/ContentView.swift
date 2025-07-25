@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Swiftful Thinker")
             Text("Swiftful!")
             
-            Button("Clicked Me") {
+            Button("Clicked Me Now") {
                 
                 
             }
